@@ -4,9 +4,9 @@
     "hwid": "56430cad756ea1ad6a041e9f226377cddb16e067f6875142cbcd687b2210e68a",
     "expiry": "31/03/2026"
   },
-  "TEST123": {
+  "tester": {
     "user": "tester",
-    "hwid": "56430cad756ea1ad6a041e9f226377cddb16e067f6875142cbcd687b2210e68a",
+    "hwid": "",
     "expiry": "lifetime"
   }
 }
